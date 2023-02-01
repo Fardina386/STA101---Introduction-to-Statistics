@@ -12,5 +12,5 @@ and confidence intervals. Microsoft Excel is used to facilitate computations.
 •	Utilizing statistics for the topic “Tourist Destinations in Thailand” for Final Poster project:
 
 o	Collect survey results i.e., primary data from 30 students at Stamford Int. University.
-o	Organize, summarize, & present the data in a poster by utilizing suitable charts, tables   & other      statistical methods learned based on the type of survey questions.
+o	Organize, summarize, & present the data in a poster by utilizing suitable charts, tables   & other statistical methods learned based on the type of survey questions.
 o	Demonstrate descriptive statistics for the project.
