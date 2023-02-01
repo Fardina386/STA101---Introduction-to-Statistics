@@ -1,6 +1,6 @@
 # STA101---Introduction-to-Statistics.
 
-This repository has a final poster project with its report that utilises the majority of the topics studied throughout the course.
+This repository has a final poster group project with its report that utilises the majority of the topics studied throughout the course.
 
 Course Description:
 This course is an introduction to descriptive and inferential statistics. It is intended to give students
